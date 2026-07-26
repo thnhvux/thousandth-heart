@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#H#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:amethyst_block",
+    "H": "minecraft:heart_of_the_sea"
+  },
+  "result": {
+    "id": "thousandthheart:life_crystal"
+  }
+}
